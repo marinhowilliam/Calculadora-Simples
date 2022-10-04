@@ -52,7 +52,7 @@ div.style.marginTop="50px"
 div.style.border="2px solid #800000"
 div.style.padding="50px 70px"
 div.style.paddingTop="100px"
-div.style.background="linear-gradient(to top, #363636, #000000)"
+div.style.background="linear-gradient(to top, #105105105, #000000)"
 div.style.borderRadius="8px"
 
 //body
